@@ -5,5 +5,8 @@ public class Repository_test {
         System.out.println("It is My repository test!!!");
         System.out.println("Works properly.");
         System.out.println("Works properly.");
+        System.out.println("Works properly.");
+        System.out.println("Works properly.");
+        System.out.println("Works properly.");
     }
 }
